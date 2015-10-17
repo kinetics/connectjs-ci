@@ -1,0 +1,21 @@
+{
+  "name": "connect-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha tests",
+    "start": "node server.js"
+  },
+  "author": "Bryan Oliver",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "chai": "^3.3.0",
+    "chai-http": "^1.0.0",
+    "chalk": "^1.1.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "http": "0.0.0"
+  }
+}
